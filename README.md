@@ -47,8 +47,8 @@ E-commerce desenvolvido com Next.js e integração a API GraphQL, com estados de
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=BrunoDevFront-end&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoDevFront-end&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BrunoDevFront-end&theme=github_dark" />
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BrunoDevFront-end&theme=github_dark" />
 
 </div>
 
