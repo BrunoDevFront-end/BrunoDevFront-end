@@ -13,7 +13,7 @@
 
 ## Sobre mim
 
-Desenvolvedor Front-end com base em Análise e Desenvolvimento de Sistemas, hoje focado em me tornar Full Stack. Gosto de entender o ciclo completo de uma aplicação — da interface à API, autenticação e banco de dados — e aprendo principalmente na prática, construindo projetos reais.
+Desenvolvedor Front-end com formação em Análise e Desenvolvimento de Sistemas, hoje focado em me tornar Full Stack. Gosto de entender o ciclo completo de uma aplicação — da interface à API, autenticação e banco de dados — e aprendo principalmente na prática, construindo projetos reais.
 
 ## Stack
 
